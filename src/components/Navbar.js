@@ -140,7 +140,7 @@ function Navbar() {
   return (
     <Nav>
       <Container>
-        <Logo href="/">ShoeBrand</Logo>
+        <Logo href="/">Velox</Logo>
         
         <MenuItems>
           <NavLink href="#home">Home</NavLink>
